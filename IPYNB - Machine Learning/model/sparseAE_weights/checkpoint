@@ -1,0 +1,2 @@
+model_checkpoint_path: "sparse_L1_ae_weights.ckpt"
+all_model_checkpoint_paths: "sparse_L1_ae_weights.ckpt"
