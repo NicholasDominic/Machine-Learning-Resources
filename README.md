@@ -16,7 +16,7 @@ General Information
 ## Contents
 The unmarked (active) content denotes unfinished development of codes (still on progress).
 <br>Feel free to give suggestions (through contact I attached below) about what topic should I discover more.
-<br>All references or development resources are credited on each notebook.
+<br>All references or development resources are credited within each notebook.
 
 **Linear Regression**
 - [x] Data Exploration and Visualization
